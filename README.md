@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Andrew Alderfer and I'm a data scientist and artist with a background in fabrication, and manufacturing for the events and furniture industries. I love designing machines and processes for manufacturing and hope to apply my new skills and knowledge in machine-learning and AI to improve automation systems. I recently graduated from Flatiron School in NYC and am excited to continue to use this space to develop my ideas and projects.
+
+I am currently:
+
+- Looking for Work!
+- Working on a customized implementation of the YOLO algorithm using Tensorflow/Keras
+- Building machines and 3d printing tools
+- Living in Brooklyn
 
 <!--
 **DrewAlderfer/DrewAlderfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
