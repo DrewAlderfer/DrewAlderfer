@@ -3,6 +3,7 @@ My name is Andrew Alderfer and I'm a data scientist and artist with a background
 
 I am currently:
 
+- I'm modifying monkeytype so that I can 'read' Moby Dick and improve my touch typing at the same time!
 - Looking for Work!
 - Working on a customized implementation of the YOLO algorithm using Tensorflow/Keras
 - Building machines and 3d printing tools
