@@ -4,10 +4,12 @@ My name is Andrew Alderfer and I'm a data scientist and artist with a background
 I am currently:
 
 - I'm modifying monkeytype so that I can 'read' Moby Dick and improve my touch typing at the same time!
-- Looking for Work!
+- Becoming an expert (by doing it over an over) in installing Customized Windows 11 iso's and Arch Linux for a dual boot setup, lol.
 - Working on a customized implementation of the YOLO algorithm using Tensorflow/Keras
-- Building machines and 3d printing tools
+- Building a screw sorting machine with darknet YOLO and probably ROS.
+- I want to start learning robotics simulation. If you have suggestions on which engine (Bullet, Havok, Physx, etc.) to learn to use let me know!
 - Living in Brooklyn
+- Looking for Work!
 
 <!--
 **DrewAlderfer/DrewAlderfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
